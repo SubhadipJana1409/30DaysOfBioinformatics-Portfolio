@@ -9,6 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)]()
 [![Days](https://img.shields.io/badge/Projects-33%2B-blue?style=for-the-badge)]()
+[![Dashboard](https://img.shields.io/badge/🌐_Live_Dashboard-View_Online-ff6f61?style=for-the-badge)](https://subhadipjana1409.github.io/30DaysOfBioinformatics-Portfolio/)
 
 <br/>
 
@@ -105,7 +106,9 @@
 
 ## 📊 Interactive Portfolio Dashboard
 
-**`day30_portfolio.html`** — Download and open in any browser. Zero dependencies, fully self-contained.
+🌐 **[View Live Dashboard](https://subhadipjana1409.github.io/30DaysOfBioinformatics-Portfolio/)** — No download needed, view directly in your browser!
+
+Alternatively, download **`day30_portfolio.html`** and open locally. Zero dependencies, fully self-contained.
 
 | Section | Content |
 |---------|---------|
